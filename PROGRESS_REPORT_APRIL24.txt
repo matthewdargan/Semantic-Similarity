@@ -1,0 +1,17 @@
+What is the status of your project?
+We're currently working on Part 1 still, the overall structure of the code is correct however there remains a few small bugs
+that cause the functions to not output the expected output. Although we are still debugging, we are positive that it
+is something small since the output is only off by one or two words.
+
+
+What has each team done to ensure the success of the team?
+The main thing that we have done as a team is to communicate effectively; texting each other when we will be on 
+discord and working on it together. Another way we are ensuring the success of the team is by debugging together
+and bouncing ideas off of each other when we are stuck on a certain portion of the project.
+
+
+
+What can each team member do going forward to ensure the success of the team?
+Essentially all we have to do as a team and individuals is continue working on the project throughout the week. There 
+is no doubt my mind that we will be able to finish promptly with the timeframe given. Another thing that we can do 
+going forward is to continue the same level of communication and teamwork throughout the rest of the project.
