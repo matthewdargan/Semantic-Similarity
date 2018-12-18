@@ -3,7 +3,7 @@ A Java command-line tool used to analyze the semantic usage of words in a text f
 and group similar words together.
 
 ## Dependencies
-opennlp.tools v1.8.3 for word stemming
+- opennlp.tools v1.8.3 (for word stemming)
 
 ## Commands
 - help - Print the supported commands
